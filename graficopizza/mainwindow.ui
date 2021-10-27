@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>758</width>
+    <height>364</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget"/>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>758</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuPreval_ncia_de_sintomas_de_covid_19_e_outras_doen_as_respirat_rias_Sergipe_2020_2021">
+    <property name="title">
+     <string>Prevalência de sintomas de covid-19 e outras doenças respiratórias(Sergipe 2020-2021)</string>
+    </property>
+   </widget>
+   <addaction name="menuPreval_ncia_de_sintomas_de_covid_19_e_outras_doen_as_respirat_rias_Sergipe_2020_2021"/>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
